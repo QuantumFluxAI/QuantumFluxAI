@@ -1,5 +1,24 @@
 # QuantumFluxAI
 
+This repository contains the QuantumFluxAI project, a distributed computing platform for AI workloads.
+
+## Features
+
+- Distributed node network
+- Task management and distribution
+- Contract-based verification
+- Secure authentication
+
+## Repository Structure
+
+- `/src/backend`: Backend server and API
+- `/src/contracts`: Smart contracts for verification
+- `/src/frontend`: User interface components
+
+## Version
+
+QuantumFluxAI V1.01
+
 <div align="center">
   <img src="docs/assets/logo.svg" alt="QuantumFluxAI Logo" width="800"/>
 
@@ -17,32 +36,6 @@
 ## Vision
 
 QuantumFluxAI is building a decentralized AI computing ecosystem that connects AI model providers, computing resource providers, and users in a trustless, efficient, and scalable way. Our vision is to democratize access to AI computing resources while ensuring fair compensation for resource providers and maintaining high-quality service standards.
-
-## Features
-
-- **Decentralized Computing Network**
-  - P2P node discovery and connection
-  - Automatic resource allocation
-  - Real-time node health monitoring
-  - Dynamic task distribution
-
-- **Smart Contract Integration**
-  - Secure task registration and assignment
-  - Automated payment distribution
-  - Reputation system
-  - Stake-based participation
-
-- **AI Task Management**
-  - Multiple model type support
-  - Task queuing and prioritization
-  - Result validation
-  - Performance metrics tracking
-
-- **Security & Privacy**
-  - End-to-end encryption
-  - Secure model deployment
-  - Data privacy protection
-  - Access control management
 
 ## System Architecture
 
